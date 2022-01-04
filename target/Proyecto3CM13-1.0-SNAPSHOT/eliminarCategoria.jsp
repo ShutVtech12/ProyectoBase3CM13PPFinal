@@ -1,9 +1,3 @@
-<%-- 
-    Document   : eliminarCategoria
-    Created on : Nov 20, 2020, 11:28:40 AM
-    Author     : kevyn
---%>
-
 <%@page import="com.ipn.mx.modelo.dto.CategoriaDTO"%>
 <%@page import="com.ipn.mx.modelo.dao.CategoriaDAO"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

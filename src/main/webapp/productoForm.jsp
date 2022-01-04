@@ -1,9 +1,3 @@
-<%-- 
-    Document   : productoForm
-    Created on : Dec 11, 2020, 9:58:03 PM
-    Author     : kevyn
---%>
-
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

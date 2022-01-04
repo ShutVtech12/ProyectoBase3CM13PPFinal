@@ -7,7 +7,7 @@ package com.ipn.mx.modelo.entidades;
 
 /**
  *
- * @author kevyn
+ * @author javier
  */
 public class Producto {
     private int idProducto;

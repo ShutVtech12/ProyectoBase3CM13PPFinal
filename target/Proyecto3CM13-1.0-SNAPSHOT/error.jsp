@@ -1,8 +1,3 @@
-<%-- 
-    Document   : error
-    Created on : Nov 20, 2020, 10:47:24 AM
-    Author     : kevyn
---%>
 <%@page isErrorPage="true" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

@@ -1,9 +1,3 @@
-<%-- 
-    Document   : usuarioForm
-    Created on : Dec 12, 2020, 3:29:32 PM
-    Author     : kevyn
---%>
-
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

@@ -10,7 +10,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author kevyn
+ * @author erick
  */
 public class CategoriaDTO implements Serializable{
     private Categoria entidad;

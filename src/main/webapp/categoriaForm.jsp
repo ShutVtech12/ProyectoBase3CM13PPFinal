@@ -1,9 +1,3 @@
-<%-- 
-    Document   : categoriaForm
-    Created on : Nov 24, 2020, 11:12:06 AM
-    Author     : kevyn
---%>
-
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

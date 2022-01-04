@@ -9,7 +9,7 @@ import com.ipn.mx.modelo.entidades.Producto;
 
 /**
  *
- * @author kevyn
+ * @author erick
  */
 public class ProductoDTO {
     private Producto entidad;

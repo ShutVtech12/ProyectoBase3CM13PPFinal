@@ -1,8 +1,4 @@
-<%-- 
-    Document   : listaDeCategorias
-    Created on : Nov 20, 2020, 11:02:35 AM
-    Author     : kevyn
---%>
+
 <%@page import="com.ipn.mx.modelo.dto.CategoriaDTO" %>
 <%@page import="com.ipn.mx.modelo.dao.CategoriaDAO" %>
 <%@page import="java.util.List" %>
@@ -12,7 +8,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Lista de categorias</title>
+        <title>Lista de categor&iacute;as</title>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
         
     </head>
@@ -21,7 +17,7 @@
             <table class="table">
                 <thead>
                     <tr>
-                        <th>Clave categoria</th>
+                        <th>Clavessss categor&iacute;a</th>
                         <th>Nombre categoria</th>
                         <th>Descripcion categoria</th>
                     </tr>

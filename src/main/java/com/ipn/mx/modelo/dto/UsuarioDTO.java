@@ -12,7 +12,7 @@ import lombok.Data;
 
 /**
  *
- * @author kevyn
+ * @author erick
  */
 
 public class UsuarioDTO{

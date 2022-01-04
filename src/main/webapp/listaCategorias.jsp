@@ -1,9 +1,3 @@
-<%-- 
-    Document   : listaCategorias
-    Created on : Nov 24, 2020, 11:08:33 AM
-    Author     : kevyn
---%>
-
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

@@ -18,7 +18,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author kevyn
+ * @author jemil
  */
 public class GraficaDAO {
 

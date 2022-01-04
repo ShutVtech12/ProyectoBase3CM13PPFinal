@@ -13,7 +13,7 @@ import lombok.NoArgsConstructor;
 
 /**
  *
- * @author kevyn
+ * @author javier
  */
 
 public class Usuario {

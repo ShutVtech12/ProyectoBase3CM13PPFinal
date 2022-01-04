@@ -18,7 +18,7 @@ import javax.mail.internet.MimeMessage;
 
 /**
  *
- * @author kevyn
+ * @author jemil
  */
 public class EnviarMail {
     public void enviarCorreo(String destinatario, String asunto, String mensaje){

@@ -1,9 +1,3 @@
-<%-- 
-    Document   : index
-    Created on : Jan 24, 2021, 9:19:10 PM
-    Author     : kevyn
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html class="no-js" lang="es">

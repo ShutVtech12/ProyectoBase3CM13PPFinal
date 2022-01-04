@@ -35,7 +35,7 @@ import org.jfree.data.general.PieDataset;
 
 /**
  *
- * @author kevyn
+ * @author jemil
  */
 @WebServlet(name = "CategoriaServlet", urlPatterns = {"/CategoriaServlet"})
 public class CategoriaServlet extends HttpServlet {

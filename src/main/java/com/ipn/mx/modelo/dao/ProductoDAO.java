@@ -18,7 +18,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author kevyn
+ * @author jemil
  */
 public class ProductoDAO {
     private static final String SQL_INSERT = "insert into Producto (nombreProducto, descripcionProducto, precio, existencia,idCategoria) values(?,?,?,?,?)";
@@ -42,9 +42,9 @@ public class ProductoDAO {
         return con;
     }*/
       public Connection obtenerConexion() {
-        String user = "kbiglixkqrjdwv";
-        String pwd = "befb1ba10456ace47cb2f81582fbfc69549c989687f745df1b62daea3b8eb306"; //password
-        String url = "jdbc:postgresql://ec2-3-218-123-191.compute-1.amazonaws.com:5432/dctvr0eudp9en0?sslmode=require";
+        String user = "niwnusezlainwi";
+        String pwd = "52191bb28ff0a896c6acf161e40f314de539b5713d4109d78b142d214e518b42"; //password
+        String url = "jdbc:postgresql://ec2-18-233-114-179.compute-1.amazonaws.com:5432/dcrp97tho2enia";
         String driver = "org.postgresql.Driver";
 
         try {
