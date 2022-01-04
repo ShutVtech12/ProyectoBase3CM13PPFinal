@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Context path="/Proyecto3CM9MVC">
+<Context path="/ProyectoFinal">
     <ResourceLink
-        name="jdbc/3cm9"
-        global="jdbc/3cm9"
+        name="jdbc/ProyectoFinal"
+        global="jdbc/ProyectoFinal"
         type="javax.sql.DataSource"
     />
 </Context>
